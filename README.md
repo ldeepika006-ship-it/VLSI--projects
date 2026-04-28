@@ -1,2 +1,2 @@
-# VLSI--projects
+# VLSI-projects
 verilog practice projects
